@@ -1,0 +1,1 @@
+# coding-ninjas-contest-cn
